@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+    <string name="exchange_to_US">USドルを入力してください。</string>
+</resources>
